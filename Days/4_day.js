@@ -16,5 +16,3 @@ var map = function (arr, fn) {
   return res;
 };
 console.log(map(arr));
-
-//
